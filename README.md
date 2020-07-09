@@ -3,4 +3,4 @@ gvim
 gvim 2
 gvim 3
 #Git
-feature-A
+feature-A and fix-B
